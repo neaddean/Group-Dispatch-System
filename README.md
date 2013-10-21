@@ -9,3 +9,4 @@ Elevator group dispatch modeler in python
 * Implement THV and GAHCA algorithms as described [in this paper](http://www.inf.utfsm.cl/~mcriff/Tesistas/lista-papers/GA-elevators.pdf)
 * Tkinter animation/GUI
 * Big Oh?..
+* Borg model
